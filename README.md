@@ -27,14 +27,18 @@ A convolutional neural network (CNN) model for classifying flowers into 5 catego
 
 ## 🚀 Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/mohan0907-lab/flower-recognition-model.git
-cd flower-recognition-model
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/bhuvansai93/neuralnetwork.git
+   cd neuralnetwork
 
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
+2. Install dependencies
+  (We recommend using a virtual environment)
+   ```bash
+    pip install -r requirements.txt
+3. Run the notebook
+    ```bash
+    jupyter notebook code_ml_tutorial_23098103.ipynb
 
 
 📁 Dataset
