@@ -1,93 +1,34 @@
-# FLOWER RECOGNITION USING CONVOLUTIONAL NEURAL NETWORK (CNN) 
-Overview
-This repository contains a Jupyter Notebook implementation of a flower recognition model using TensorFlow and Keras. The model is trained to classify images of flowers into 5 categories: daisy, dandelion, rose, sunflower, and tulip.
+# 🌸 Flower Recognition Using CNN 🌼
 
-Features
-Data preprocessing with TensorFlow's ImageDataGenerator
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-Convolutional Neural Network (CNN) architecture
+A convolutional neural network (CNN) model for classifying flowers into 5 categories: daisy, dandelion, rose, sunflower, and tulip.
 
-Model training and evaluation
+![Flower Classification Demo](https://via.placeholder.com/800x400?text=Flower+Classification+Demo)
 
-Visualization of training results
+## ✨ Features
 
-Flower classification on new images
-Requirements
-To run this notebook, you'll need:
+- 🖼️ Image preprocessing with TensorFlow's `ImageDataGenerator`
+- 🧠 CNN architecture with dropout regularization
+- 📊 Training visualization (accuracy/loss curves)
+- 🔍 Prediction on custom flower images
+- 📈 Model evaluation metrics
 
-Python 3.x
+## 🛠️ Requirements
 
-Jupyter Notebook
+- Python 3.x
+- Jupyter Notebook
+- TensorFlow 2.x
+- Keras
+- NumPy
+- Matplotlib
+- OpenCV
 
-TensorFlow 2.x
+## 🚀 Installation
 
-Keras
-
-NumPy
-
-Matplotlib
-
-OpenCV (for image processing)
-Installation
-Clone this repository:
-
-    ```bash
-    git clone https://github.com/mohan0907-lab/flower-recognition-model.git
-    cd flower-recognition-model
-
-Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-
-Dataset
-The model uses a dataset of 4,317 flower images divided into 5 classes:
-
-Daisy: 764 images
-
-Dandelion: 1,052 images
-
-Rose: 784 images
-
-Sunflower: 733 images
-
-Tulip: 984 images
-Usage
-Open the Jupyter Notebook Flower_recog_Model_1.ipynb
-
-Run the cells sequentially to:
-
-Install dependencies
-
-Load and preprocess the dataset
-
-Build and train the CNN model
-
-Evaluate model performance
-
-Make predictions on new images
-
-Model Architecture
-The CNN model includes:
-
-Convolutional layers
-
-Max pooling layers
-
-Dropout layers for regularization
-
-Dense layers for classification
-
-Results
-The notebook includes visualizations of:
-
-Training and validation accuracy
-
-Training and validation loss
-
-Sample predictions
-
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+1. Clone the repository:
+```bash
+git clone https://github.com/mohan0907-lab/flower-recognition-model.git
+cd flower-recognition-model
