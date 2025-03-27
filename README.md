@@ -33,5 +33,5 @@ git clone https://github.com/mohan0907-lab/flower-recognition-model.git
 cd flower-recognition-model
 
 2. Install dependencies:
-```bash
-pip install -r requirements.txt
+  ```bash
+  pip install -r requirements.txt
