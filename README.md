@@ -94,10 +94,6 @@ Test Accuracy: 90.8%
 
 
 🏃‍♂️ Usage
-1. Open the Jupyter Notebook:
-```bash
-jupyter notebook Flower_recog_Model 1.ipynb
-
 
 Run cells sequentially to:
 
