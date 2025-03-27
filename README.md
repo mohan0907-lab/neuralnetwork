@@ -6,7 +6,6 @@
 
 A convolutional neural network (CNN) model for classifying flowers into 5 categories: daisy, dandelion, rose, sunflower, and tulip.
 
-![Flower Classification Demo](https://via.placeholder.com/800x400?text=Flower+Classification+Demo)
 
 ## ✨ Features
 
