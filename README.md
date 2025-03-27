@@ -30,15 +30,10 @@ Matplotlib
 OpenCV (for image processing)
 Installation
 Clone this repository:
-
-bash
-Copy
 git clone https://github.com/yourusername/flower-recognition-model.git
 cd flower-recognition-model
-Install the required packages:
 
-bash
-Copy
+Install the required packages:
 pip install -r requirements.txt
 Dataset
 The model uses a dataset of 4,317 flower images divided into 5 classes:
