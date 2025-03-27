@@ -30,7 +30,7 @@ Matplotlib
 OpenCV (for image processing)
 Installation
 Clone this repository:
-git clone https://github.com/yourusername/flower-recognition-model.git
+git clone https://github.com/mohan0907-lab/flower-recognition-model.git
 cd flower-recognition-model
 
 Install the required packages:
