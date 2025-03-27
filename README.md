@@ -34,5 +34,5 @@ A convolutional neural network (CNN) model for classifying flowers into 5 catego
 
 
   2. Install dependencies:
-  ```bash
+  
   pip install -r requirements.txt
