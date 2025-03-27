@@ -33,6 +33,4 @@ A convolutional neural network (CNN) model for classifying flowers into 5 catego
   cd flower-recognition-model
 
 
-  2. Install dependencies:
-  
-  pip install -r requirements.txt
+
