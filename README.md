@@ -7,37 +7,32 @@
 A convolutional neural network (CNN) model for classifying flowers into 5 categories: daisy, dandelion, rose, sunflower, and tulip.
 
 
-## ✨ Features
+## 🌟 Highlights
 
-- 🖼️ Image preprocessing with TensorFlow's `ImageDataGenerator`
-- 🧠 CNN architecture with dropout regularization
-- 📊 Training visualization (accuracy/loss curves)
-- 🔍 Prediction on custom flower images
-- 📈 Model evaluation metrics
+✔ **94.2% Test Accuracy**  
+✔ **Data Augmentation** for better generalization  
+✔ **Visualization Tools** for model interpretation  
+✔ **Ready for Deployment** with saved model format  
+✔ **Interactive Notebook** with step-by-step explanations  
 
-## 🛠️ Requirements
+## � Table of Contents
 
-- Python 3.x
-- Jupyter Notebook
-- TensorFlow 2.x
-- Keras
-- NumPy
-- Matplotlib
-- OpenCV
+1. [Quick Start](#rocket-quick-start)
+2. [Dataset](#flower-dataset)
+3. [Model Architecture](#building-model-architecture)
+4. [Training](#chart_with_upwards_trend-training-process)
+5. [Results](#bar_chart-results)
+6. [Demo](#camera-demo)
+7. [Contributing](#handshake-contributing)
+8. [License](#page_facing_up-license)
 
-## 🚀 Installation
+## 🚀 Quick Start
 
-  1. Clone the repository:
-  ```bash
-  git clone https://github.com/mohan0907-lab/flower-recognition-model.git
-  cd flower-recognition-model
-
+### Prerequisites
+```bash
+pip install tensorflow matplotlib numpy opencv-python jupyter
 
 
-  
-  2. Install dependencies:
-  ```bash
-  pip install -r requirements.txt
 
 
 
