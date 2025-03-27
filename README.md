@@ -38,7 +38,7 @@ A convolutional neural network (CNN) model for classifying flowers into 5 catego
     pip install -r requirements.txt
 3. Run the notebook
     ```bash
-    jupyter notebook code_ml_tutorial_23098103.ipynb
+    jupyter notebook Flower_recog_Model 1.ipynb
 
 
 📁 Dataset
@@ -96,7 +96,7 @@ Test Accuracy: 90.8%
 🏃‍♂️ Usage
 1. Open the Jupyter Notebook:
 ```bash
-jupyter notebook Flower_recog_Model_1.ipynb
+jupyter notebook Flower_recog_Model 1.ipynb
 
 
 Run cells sequentially to:
